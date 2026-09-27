@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Placement Coach — Crack the offer.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <div class="glow"></div>
+
+  <main class="page">
+
+    <section class="hero">
+      <p class="eyebrow">AI PLACEMENT COACH</p>
+      <h1 class="headline">Crack the <span class="accent">offer.</span></h1>
+      <p class="subhead">Trained on the 2026 hiring list. Strict on prep, honest about gaps,<br>on your side every step of the way.</p>
+    </section>
+
+    <section class="chat-panel" id="chat-panel">
+      <div class="chat-scroll" id="chat-scroll">
+        <div class="msg msg-bot">
+          <div class="bubble">Hey, I'm your placement coach. Tell me the company you're targeting, or ask me where your prep is weakest — and I'll tell you straight.</div>
+        </div>
+      </div>
+
+      <form class="composer" id="composer" autocomplete="off">
+        <input
+          type="text"
+          id="message-input"
+          placeholder="Ask about a company, round, or topic…"
+          maxlength="500"
+        />
+        <button type="submit" id="send-btn">Send</button>
+      </form>
+    </section>
+
+    <div class="foot-row">
+      <button id="reset-btn" class="reset-link">Start a new session</button>
+      <span class="foot-note">No fluff. One honest answer at a time.</span>
+    </div>
+
+  </main>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

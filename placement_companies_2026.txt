@@ -1,0 +1,245 @@
+# PLACEMENT PREPARATION CHATBOT KNOWLEDGE BASE
+# Version: 2026
+
+
+================================================================================
+COMPANY: TCS
+DATASET VERSION: 2026
+TARGET: Freshers / campus-style hiring
+SOURCE TYPE: Official company information
+IMPORTANT: Hiring patterns can change by drive, role, batch and location.
+
+CURRENT OFFICIAL PROCESS (TCS ALL INDIA NQT 2026)
+- TCS NQT is an integrated test with Foundation and Advanced sections.
+- Foundation: Numerical Ability (25 min), Verbal Ability (25 min), Reasoning Ability (25 min).
+- Advanced: Advanced Quantitative & Reasoning Ability (25 min), Advanced Coding (90 min).
+- Total test duration: 190 minutes.
+- Advanced section is mandatory for candidates aspiring to Digital or Prime offers.
+- Based on test performance, candidates can qualify for Prime, Digital or Ninja interviews.
+- The 2026 TCS All India NQT page lists MCA among eligible qualifications and states a 60% minimum aggregate requirement across specified academic stages for that drive.
+- The 2026 page states no pending backlog at the time of the selection process.
+
+PREPARATION TOPICS
+- Quantitative aptitude: arithmetic, percentages, ratios, averages, time/work, data interpretation.
+- Reasoning: logical reasoning, patterns, arrangements and problem solving.
+- Verbal: grammar, vocabulary, reading comprehension.
+- Coding: arrays, strings, searching, sorting, basic data structures, problem solving and implementation.
+- Interview preparation: programming fundamentals, OOP, DBMS, SQL, OS, computer networks and project explanation.
+
+QUESTION BANK POLICY
+- Do NOT label specific interview questions as guaranteed TCS questions.
+- Candidate-reported questions should be stored separately with year, source and confidence.
+- Recommended chatbot wording: "This type of question has been reported in previous candidate experiences; the current interview may differ."
+
+SAMPLE PREPARATION QUESTIONS
+1. Explain OOP pillars with examples.
+2. Difference between WHERE and HAVING in SQL.
+3. Explain INNER JOIN vs LEFT JOIN.
+4. What is normalization?
+5. Explain process vs thread.
+6. What is an IP address?
+7. Reverse a string / array.
+8. Find duplicates in an array.
+9. Explain your final-year project.
+10. Why do you want to work in IT services?
+
+OFFICIAL SOURCE
+https://www.tcs.com/careers/india/tcs-all-india-nqt-hiring
+
+
+================================================================================
+COMPANY: ACCENTURE
+DATASET VERSION: 2026
+TARGET: Graduate / entry-level roles
+SOURCE TYPE: Official company information
+IMPORTANT: Accenture explicitly states that the number of interviews and assessments depends on the role.
+
+CURRENT OFFICIAL RECRUITMENT INFORMATION
+- After application, Accenture reviews the application and may contact selected candidates for interviews.
+- Interviews may be by phone, video or in person.
+- The number of interviews depends on the role.
+- Some roles include an online activity/technical assessment.
+- Accenture says technical assessments evaluate problem solving, logical reasoning and applied technical knowledge.
+- Coding environments may be used for engineering-oriented assessments.
+- Accenture states that assessments are completed online in one sitting; typical assessment duration is approximately 30-90 minutes depending on proficiency and role.
+- Assessment results are considered alongside the candidate's background and experience.
+- Technical assessments do not replace interviews.
+
+PREPARATION TOPICS
+- Problem solving.
+- Logical reasoning.
+- Programming fundamentals.
+- Coding and debugging.
+- Role-specific technical knowledge.
+- Communication and behavioral interview preparation.
+- Resume and project explanation.
+
+SAMPLE PREPARATION QUESTIONS
+1. Tell me about yourself.
+2. Explain your strongest technical skill.
+3. Explain a project you built and your contribution.
+4. Write a program to find duplicates in an array.
+5. Explain time complexity.
+6. What is the difference between a process and a thread?
+7. Explain SQL joins.
+8. Explain OOP concepts.
+9. How would you debug a program that gives the wrong output?
+10. Describe a difficult problem you solved.
+
+CHATBOT NOTE
+- Do not claim that every Accenture fresher has the same fixed sequence of rounds.
+- Use role-specific information when available.
+
+OFFICIAL SOURCE
+https://www.accenture.com/in-en/careers/explore-careers/area-of-interest/journey-to-accenture
+
+
+================================================================================
+COMPANY: INFOSYS
+DATASET VERSION: 2026
+TARGET: Graduate / fresher preparation
+SOURCE TYPE: Official company information
+IMPORTANT: Infosys has multiple hiring programs, so the process differs by program and role.
+
+CURRENT OFFICIAL INFORMATION
+- Infosys states that its recruitment process includes extensive screening and at least one interview, virtual or in person.
+- Infosys Foundation Program information describes a structured assessment process followed by in-person interviews for the referenced program.
+- Infosys Power Programmers hiring process lists registration, two coding rounds, technical interviews and final selection for that specialized program.
+- Infosys HackWithInfy 2026 is a separate coding competition with qualifier rounds and a Grand Finale; it should not be presented as the universal Infosys fresher hiring process.
+
+PREPARATION TOPICS
+- Programming fundamentals.
+- Data structures and algorithms.
+- Coding problem solving.
+- OOP.
+- DBMS and SQL.
+- Computer networks and operating systems.
+- Project explanation.
+- Communication and behavioral questions.
+
+SAMPLE PREPARATION QUESTIONS
+1. Explain inheritance, polymorphism and abstraction.
+2. Write a program to check whether a string is a palindrome.
+3. Find the second largest element in an array.
+4. Explain SQL joins.
+5. What is normalization?
+6. Difference between primary key and foreign key.
+7. Explain process and thread.
+8. Explain your project architecture.
+9. What challenge did you face in your project?
+10. Explain the time complexity of your solution.
+
+CHATBOT NOTE
+- Ask the user which Infosys program/role they are targeting when possible.
+- Do not merge Power Programmer, HackWithInfy and general graduate hiring into one fixed process.
+
+OFFICIAL SOURCES
+https://www.infosys.com/careers/apply/recruitment-fraud-alert.html
+https://www.infosys.com/careers/power-programmers.html
+https://www.infosys.com/careers/hackwithinfy.html
+https://www.infosys.com/about/esg/reports/2025-26/social-digital-talent.html
+
+
+================================================================================
+COMPANY: COGNIZANT
+DATASET VERSION: 2026
+TARGET: GenC / graduate hiring in India
+SOURCE TYPE: Official company information
+IMPORTANT: Cognizant states that the process can vary by role and that not every candidate advances through every step.
+
+CURRENT GEN C HIRING PROCESS
+1. Application through campus drive or open opportunity.
+2. Initial screening.
+3. Assessment(s), depending on role.
+4. Interview(s).
+5. Result / selection decision.
+
+ASSESSMENT INFORMATION
+- Assessments may evaluate communication skills, aptitude and/or technical skills.
+- Candidates who clear assessments may be invited to interviews.
+- The interview may be virtual or in person.
+- The exact process varies by role.
+
+PREPARATION TOPICS
+- Aptitude.
+- Communication.
+- Programming fundamentals.
+- SQL and DBMS.
+- OOP.
+- Basic data structures.
+- Project explanation.
+- Behavioral/HR preparation.
+
+SAMPLE PREPARATION QUESTIONS
+1. Tell me about yourself.
+2. Explain your project.
+3. What is OOP?
+4. Explain SQL joins.
+5. Difference between DELETE, DROP and TRUNCATE.
+6. What is normalization?
+7. Write a simple array/string program.
+8. Explain your programming language of choice.
+9. What are your strengths and weaknesses?
+10. Are you willing to relocate?
+
+CHATBOT NOTE
+- Never present a fixed number of rounds as universal for all Cognizant roles.
+- Identify whether the user is targeting GenC or another role before giving a process.
+
+OFFICIAL SOURCES
+https://careers.cognizant.com/india-en/pathways-to-cognizant/genc-program/
+https://careers.cognizant.com/india-en/pathways-to-cognizant/how-we-hire/
+
+
+================================================================================
+COMPANY: CAPGEMINI INDIA
+DATASET VERSION: 2026
+TARGET: Fresh graduates / entry-level preparation
+SOURCE TYPE: Official company information
+IMPORTANT: Capgemini states that the process can vary depending on role and business requirements.
+
+CURRENT OFFICIAL RECRUITMENT PROCESS
+1. Application.
+2. Screening and position mapping.
+3. Interview process.
+4. Onboarding and placement.
+
+INTERVIEW / ASSESSMENT INFORMATION
+- HR screening can be conducted by video call or phone interview.
+- Depending on the role, candidates may complete proctored online technical and language assessments.
+- Depending on the position, one or two technical interviews may be conducted.
+- A formal HR behavioral interview may follow successful technical evaluation.
+- Capgemini's India page also describes a typical fresher placement flow that can include online aptitude, coding/technical assessment, group discussion for selected roles, technical interview and HR interview.
+- The exact stages are not universal; the job/drive should be checked.
+
+PREPARATION TOPICS
+- Quantitative aptitude.
+- Logical reasoning.
+- Verbal ability.
+- Coding and problem solving.
+- Programming fundamentals.
+- SQL and DBMS.
+- OOP.
+- Technical project explanation.
+- HR and behavioral questions.
+- Communication and teamwork.
+
+SAMPLE PREPARATION QUESTIONS
+1. Explain the four pillars of OOP.
+2. Write a program to find duplicate elements.
+3. Explain primary key and foreign key.
+4. Explain INNER JOIN and LEFT JOIN.
+5. What is normalization?
+6. Explain arrays and strings.
+7. Explain your project and your role.
+8. Describe a time you worked in a team.
+9. Why Capgemini?
+10. Are you comfortable with relocation or shifts?
+
+CHATBOT NOTE
+- Treat group discussion as role/drive dependent, not guaranteed.
+- Treat one/two technical interviews as position dependent.
+
+OFFICIAL SOURCE
+https://www.capgemini.com/in-en/careers/join-capgemini/recruitment-process/
+
